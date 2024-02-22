@@ -1,2 +1,7 @@
 # rmi-calculator-sample
-This repository contains a demo application for showcasing how RMI works
+
+Welcome to the **RMI Calculator Sample** repository!
+
+This repository contains the codebase for showcasing how RMI works.
+
+## Class Breakdown:
